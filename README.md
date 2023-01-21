@@ -20,7 +20,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [https://github.com/joaopaulo-web/Challenge-order-summary-component-main]
-- Live Site URL: [https://joaopaulo-web.github.io/challenge-3-column-preview-card/]
+- Live Site URL: [https://joaopaulo-web.github.io/Challenge-order-summary-component-main/]
 
 ### Built with
 
