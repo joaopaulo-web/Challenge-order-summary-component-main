@@ -13,13 +13,13 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![Desktop Version](images/Screenshot%20Desktop%202023-01-17%20at%2011-09-54%203-column-preview-card.png)
-![Mobile Version](images/Screenshot%20Mobile%202023-01-17%20at%2011-10-03%203-column-preview-card.png)
+![Desktop Version](design/Screenshot%20Desktop%202023-01-21%20at%2017-23-19%20Order%20Summary%20Component%20Main.png)
+![Mobile Version](design/Screenshot%20Mobile%202023-01-21%20at%2017-23-32%20Order%20Summary%20Component%20Main.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/joaopaulo-web/challenge-3-column-preview-card]
+- Solution URL: [https://github.com/joaopaulo-web/Challenge-order-summary-component-main]
 - Live Site URL: [https://joaopaulo-web.github.io/challenge-3-column-preview-card/]
 
 ### Built with
